@@ -20,6 +20,9 @@ public class MainActivity extends AppCompatActivity {
 
         addButton(DroidCardsActivity.class,
                 getString(R.string.title_activity_droid_cards), activityContainer);
+
+        addButton(CompareLayoutsActivity.class,
+                getString(R.string.title_activity_compare_layouts), activityContainer);
     }
 
     private void addButton(final Class destination, String description, ViewGroup parent) {
