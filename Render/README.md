@@ -22,3 +22,8 @@ Full text tutorial: [Visualizing Overdraw QuickStart Tutorial](https://developer
 - **`Canvas.quickReject()`**: tests whether a given area is completely outside the clipping rectangle, in which case you can skip all that drawing work.
 
 **[Android Canvas API](https://developer.android.com/reference/android/graphics/Canvas.html)**
+
+### Hierarchy Viewer: Walkthrough
+- [Device Setup for Hierarchy Viewer](https://developer.android.com/studio/profile/hierarchy-viewer-setup.html)
+- [Hierarchy Viewer Walkthrough](https://developer.android.com/studio/profile/hierarchy-viewer-walkthru.html)
+- [Profiling with Hierarchy Viewer](https://developer.android.com/studio/profile/hierarchy-viewer-results-walkthru.html)
