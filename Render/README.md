@@ -20,3 +20,5 @@ Full text tutorial: [Visualizing Overdraw QuickStart Tutorial](https://developer
 **Useful Methods**
 - **`Canvas.clipRect()`**: allows you to define the drawable boundaries for a given view, meaning that if any canvas drawing happens outside these boundaries, it'll be ignored.
 - **`Canvas.quickReject()`**: tests whether a given area is completely outside the clipping rectangle, in which case you can skip all that drawing work.
+
+**[Android Canvas API](https://developer.android.com/reference/android/graphics/Canvas.html)**
