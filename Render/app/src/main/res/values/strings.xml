@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Render</string>
+
+    <string name="title_activity_droid_cards">Droid cards</string>
+
+    <string name="header_text">Chatum Latinum</string>
+    <string name="title_activity_chatum_latinum">Chatum Latinum</string>
 </resources>
